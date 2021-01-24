@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cea54bd1.chunk.css",
+    "main.js": "/static/js/main.e2f01df8.chunk.js",
+    "main.js.map": "/static/js/main.e2f01df8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.76e401e7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.76e401e7.js.map",
+    "static/js/2.6380a24d.chunk.js": "/static/js/2.6380a24d.chunk.js",
+    "static/js/2.6380a24d.chunk.js.map": "/static/js/2.6380a24d.chunk.js.map",
+    "static/js/3.39e667e4.chunk.js": "/static/js/3.39e667e4.chunk.js",
+    "static/js/3.39e667e4.chunk.js.map": "/static/js/3.39e667e4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cea54bd1.chunk.css.map": "/static/css/main.cea54bd1.chunk.css.map",
+    "static/js/2.6380a24d.chunk.js.LICENSE.txt": "/static/js/2.6380a24d.chunk.js.LICENSE.txt",
+    "static/media/ETC.b3ec96d9.svg": "/static/media/ETC.b3ec96d9.svg",
+    "static/media/POLK.5caa17cf.svg": "/static/media/POLK.5caa17cf.svg",
+    "static/media/TETH.6dc09781.svg": "/static/media/TETH.6dc09781.svg",
+    "static/media/XRP.7bdbdbf3.svg": "/static/media/XRP.7bdbdbf3.svg",
+    "static/media/btc.6c2ee359.svg": "/static/media/btc.6c2ee359.svg",
+    "static/media/buySellWGraph.39380047.png": "/static/media/buySellWGraph.39380047.png",
+    "static/media/firstpage.04017959.png": "/static/media/firstpage.04017959.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76e401e7.js",
+    "static/js/2.6380a24d.chunk.js",
+    "static/css/main.cea54bd1.chunk.css",
+    "static/js/main.e2f01df8.chunk.js"
+  ]
+}
